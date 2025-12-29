@@ -1,0 +1,6 @@
+FIC001,Dune,Frank Herbert,01/03/2024,STD
+NON010,Clean Code,Robert C. Martin,02/03/2024,STD
+FIC002,1984,George Orwell,10/03/2024,FAC
+NON011,Operating Systems,Silberschatz,12/03/2024,FAC
+FIC003,The Hobbit,J.R.R. Tolkien,25/03/2024,STD
+FIC004,Foundation,Isaac Asimov,01/04/2024,FAC

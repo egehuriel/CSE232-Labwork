@@ -1,0 +1,4 @@
+hello terminal
+labwork seven
+append line
+2025-12-29 dated entry

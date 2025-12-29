@@ -1,0 +1,6 @@
+std1001,Ali,Veli,01/03/2017
+ins2001,Ayla,Demir,12/03/2017
+std1002,Ege,Huriel,21/03/2017
+std1003,Deniz,Kaya,05/04/2017
+ins2002,Mert,Yilmaz,07/02/2017
+std1004,Zeynep,Aslan,10/01/2018
